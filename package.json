@@ -1,0 +1,5 @@
+{
+    "scripts": {
+      "build": "[site tracker] build --output public"
+    }
+  }
